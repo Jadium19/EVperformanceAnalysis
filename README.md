@@ -18,9 +18,11 @@ Datasets to be Used:
 Data from https://catalog.data.gov/dataset/alternative-fueling-station-locations-422f2/resource/341957d8-daf6-4a38-ab1d-8ec1bc21cfb from Kaggle
 Data from https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/tsla-20211231.html
 Rough Breakdown of Tasks:
-Everyone: Data collection, cleaning, and plotting
 
+Julian: Presentation Slide, Script, Cleaning
+Joshna: Plotting, Data Collection
 Jeremy: GitHub/Organization
+Elijah: Plotting, Data Collection
 
 Everyone: Presentation
 
