@@ -65,3 +65,11 @@ There is a correlation of EVs and charging stations with population density and 
 
 Limitations:
 The analysis was only based on a 5 year span, with limited data, findings may not be as accurate as they could be.
+
+![image](https://github.com/Jadium19/EVperformanceAnalysis/assets/131633262/bdb38322-86a7-45e1-b124-6c72674ecc65)
+
+![image](https://github.com/Jadium19/EVperformanceAnalysis/assets/131633262/f536a6eb-1c72-4e08-b12d-1daa20ed42cf)
+
+![image](https://github.com/Jadium19/EVperformanceAnalysis/assets/131633262/91f1a05c-ac58-4e14-aa1a-fc4b98a6e18b)
+
+![image](https://github.com/Jadium19/EVperformanceAnalysis/assets/131633262/b9e4d00b-7768-46c7-b33b-a4c997d33c92)
