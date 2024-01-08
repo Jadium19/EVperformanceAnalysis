@@ -1,4 +1,4 @@
-# Group 6
+# EVs VS. ICE Vehicals
 Project title:
 Cost benefit analysis between EV and ICE vehicles.
 
