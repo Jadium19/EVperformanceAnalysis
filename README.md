@@ -1,4 +1,4 @@
-# EVs VS. ICE Vehicals
+# Electric Vehicals VS. ICE Vehicals
 Project title:
 Cost benefit analysis between EV and ICE vehicles.
 
